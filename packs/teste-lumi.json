@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "teste-lumi",
   "name": "Teste Lumi",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "minecraft": {
     "version": "26.2",
     "loader": {
@@ -11,21 +11,22 @@
     }
   },
   "modsArchive": {
-    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-lumi/v1.1.1/teste-lumi-1.1.1-mods.zip",
-    "sha256": "a081dce29aaf03ac2e8e52e2394c8b437a863be1806e10209219c64994f87850",
-    "size": 80576259,
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-lumi/v1.1.2/teste-lumi-1.1.2-mods.zip",
+    "sha256": "6535c983e719cb38d274a7733c9830fc4381aff15697c7d02a8dfffa671f50d4",
+    "size": 80679289,
     "fileCount": 77
   },
   "overrides": {
-    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-lumi/v1.1.1/teste-lumi-1.1.1-overrides.zip",
-    "sha256": "7eec3efe9a77d46234829439254448cb258a6c63b332b4140e8135d06eda93cd",
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-lumi/v1.1.2/teste-lumi-1.1.2-overrides.zip",
+    "sha256": "af2a9ada0d1ba780c7ce6156d81438d3cb753ed318f117dd63372675936d4052",
     "size": 793141,
     "fileCount": 111
   },
   "release": {
-    "publishedAt": "2026-09-19T16:40:57.992Z",
+    "publishedAt": "2026-09-19T16:58:33.388Z",
     "changelog": [
-      "Correção das URLs finais dos assets"
+      "- Teste de atualização do Lumi",
+      "- Adicionado/atualizado/removido X"
     ]
   }
 }

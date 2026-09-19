@@ -14,7 +14,7 @@
       "name": "Teste Lumi",
       "minecraft": "26.2",
       "loader": "fabric",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/teste-lumi.json"
     }
   ]

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "survival-test",
+      "name": "Survival dos Crias",
+      "minecraft": "1.21.1",
+      "loader": "forge",
+      "version": "1.0.0",
+      "manifest": "URL_RAW_DO_MANIFESTO"
+    }
+  ]
+}

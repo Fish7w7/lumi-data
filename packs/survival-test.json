@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "survival-test",
+  "name": "Survival dos Crias",
+  "version": "1.0.0",
+  "minecraft": {
+    "version": "1.21.1",
+    "loader": {
+      "type": "forge",
+      "version": "0.0.0"
+    }
+  },
+  "mods": [],
+  "release": {
+    "publishedAt": "2026-09-18T00:00:00.000Z",
+    "changelog": [
+      "Manifesto inicial para desenvolvimento."
+    ]
+  }
+}

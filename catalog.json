@@ -7,7 +7,7 @@
       "minecraft": "1.21.1",
       "loader": "forge",
       "version": "1.0.0",
-      "manifest": "URL_RAW_DO_MANIFESTO"
+      "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/survival-test.json"
     }
   ]
 }

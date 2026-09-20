@@ -2,22 +2,6 @@
   "schemaVersion": 1,
   "packs": [
     {
-      "id": "survival-test",
-      "name": "Survival dos Crias",
-      "minecraft": "1.21.1",
-      "loader": "forge",
-      "version": "1.0.0",
-      "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/survival-test.json"
-    },
-    {
-      "id": "teste-lumi",
-      "name": "Teste Lumi",
-      "minecraft": "26.2",
-      "loader": "fabric",
-      "version": "1.1.2",
-      "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/teste-lumi.json"
-    },
-    {
       "id": "fon-te",
       "name": "Fonte",
       "minecraft": "1.21.1",

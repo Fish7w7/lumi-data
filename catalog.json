@@ -16,6 +16,14 @@
       "loader": "fabric",
       "version": "1.1.2",
       "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/teste-lumi.json"
+    },
+    {
+      "id": "fon-te",
+      "name": "Fonte",
+      "minecraft": "1.21.1",
+      "loader": "neoforge",
+      "version": "1.0.0",
+      "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/fon-te.json"
     }
   ]
 }

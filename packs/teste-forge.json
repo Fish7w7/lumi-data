@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "teste-forge",
+  "name": "Forge",
+  "version": "1.0.0",
+  "minecraft": {
+    "version": "1.21.1",
+    "loader": {
+      "type": "forge",
+      "version": "52.1.0"
+    }
+  },
+  "modsArchive": {
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-forge/v1.0.0/teste-forge-1.0.0-mods.zip",
+    "sha256": "5ec08847560db5f624c8afcec299c695441ae09f01e526b237de80021a9a22c0",
+    "size": 1678492,
+    "fileCount": 2
+  },
+  "release": {
+    "publishedAt": "2026-09-21T22:01:47.231Z",
+    "changelog": [
+      "Primeiro teste com Forge"
+    ]
+  }
+}

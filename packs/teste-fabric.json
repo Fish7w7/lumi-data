@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "teste-fabric",
+  "name": "Fabric",
+  "version": "1.0.0",
+  "minecraft": {
+    "version": "1.21.1",
+    "loader": {
+      "type": "fabric",
+      "version": "0.19.5"
+    }
+  },
+  "modsArchive": {
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-fabric/v1.0.0/teste-fabric-1.0.0-mods.zip",
+    "sha256": "0e64b5febbd42c27315141439a31ec4a43280ccc82028468f416b70370f54ec9",
+    "size": 4090665,
+    "fileCount": 2
+  },
+  "release": {
+    "publishedAt": "2026-09-21T22:00:19.362Z",
+    "changelog": [
+      "Primeiro teste com Fabric"
+    ]
+  }
+}

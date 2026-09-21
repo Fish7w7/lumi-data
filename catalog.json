@@ -16,6 +16,14 @@
       "loader": "fabric",
       "version": "1.0.0",
       "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/teste-fabric.json"
+    },
+    {
+      "id": "teste-forge",
+      "name": "Forge",
+      "minecraft": "1.21.1",
+      "loader": "forge",
+      "version": "1.0.0",
+      "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/teste-forge.json"
     }
   ]
 }

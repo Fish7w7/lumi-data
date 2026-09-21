@@ -8,6 +8,14 @@
       "loader": "neoforge",
       "version": "1.0.0",
       "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/fon-te.json"
+    },
+    {
+      "id": "teste-fabric",
+      "name": "Fabric",
+      "minecraft": "1.21.1",
+      "loader": "fabric",
+      "version": "1.0.0",
+      "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/teste-fabric.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "teste-fabric",
   "name": "fabric",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minecraft": {
     "version": "1.21.1",
     "loader": {
@@ -11,19 +11,19 @@
     }
   },
   "modsArchive": {
-    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-fabric/v1.0.1/teste-fabric-1.0.1-mods.zip",
-    "sha256": "3cdff7f4814b98859d324af1f19a5d0c8ba0844a199dc4643e66e72935c9f579",
-    "size": 5923684,
-    "fileCount": 5
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-fabric/v1.0.2/teste-fabric-1.0.2-mods.zip",
+    "sha256": "48223d23d50e6c8b78ae2062224fb64ae85197a4402e50f3671eb3bae319316a",
+    "size": 8103353,
+    "fileCount": 8
   },
   "overrides": {
-    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-fabric/v1.0.1/teste-fabric-1.0.1-overrides.zip",
-    "sha256": "01a35782fe936cfb0fc4aa70ea60e16cf9656eeed0204b097589ec171c356d69",
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/teste-fabric/v1.0.2/teste-fabric-1.0.2-overrides.zip",
+    "sha256": "dff23f7888b3133073a3780c4dd63ea566c7c1032ce4a7e4e2f610bc136f2c1f",
     "size": 385,
     "fileCount": 1
   },
   "release": {
-    "publishedAt": "2026-09-22T13:28:53.519Z",
+    "publishedAt": "2026-09-22T23:48:44.351Z",
     "changelog": []
   }
 }

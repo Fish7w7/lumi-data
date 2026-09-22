@@ -14,7 +14,7 @@
       "name": "fabric",
       "minecraft": "1.21.1",
       "loader": "fabric",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/packs/teste-fabric.json"
     },
     {

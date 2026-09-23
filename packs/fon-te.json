@@ -16,6 +16,14 @@
     "size": 23024866,
     "fileCount": 14
   },
+  "presentation": {
+    "cover": {
+      "url": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/covers/fon-te/78c0ebca5f3ec3ee71ba804aa9f7e5ae2778a09eeeee415fee12bc1d48d16898.jpg",
+      "sha256": "78c0ebca5f3ec3ee71ba804aa9f7e5ae2778a09eeeee415fee12bc1d48d16898",
+      "size": 13099,
+      "mimeType": "image/jpeg"
+    }
+  },
   "release": {
     "publishedAt": "2026-09-20T00:33:42.253Z",
     "changelog": [

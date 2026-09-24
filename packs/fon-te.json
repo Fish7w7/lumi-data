@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "fon-te",
   "name": "Fonte",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minecraft": {
     "version": "1.21.1",
     "loader": {
@@ -11,21 +11,21 @@
     }
   },
   "modsArchive": {
-    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/fon-te/v1.1.0/fon-te-1.1.0-mods.zip",
-    "sha256": "a8c4890c9fcf60162dc6acdfbcfc2932390e32ba2ff7f7346df24fb06fd320fc",
-    "size": 190927862,
-    "fileCount": 58
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/fon-te/v1.2.0/fon-te-1.2.0-mods.zip",
+    "sha256": "8b716f2c1aeb13eb82ebf73ca79673e313078d2231c693a402376cfe3b75fb11",
+    "size": 197074821,
+    "fileCount": 66
   },
   "overrides": {
-    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/fon-te/v1.1.0/fon-te-1.1.0-overrides.zip",
-    "sha256": "e555055a47e929e3f3d9581ade314dfce66e0f7d8019b05ce7caf8d0d340ccf1",
+    "url": "https://github.com/Fish7w7/lumi-data/releases/download/lumi/fon-te/v1.2.0/fon-te-1.2.0-overrides.zip",
+    "sha256": "d0a9851f63364160aa51716d949f9d1f718b12204c100a01279480c07861d14e",
     "size": 16061,
     "fileCount": 24
   },
   "release": {
-    "publishedAt": "2026-09-24T15:15:06.097Z",
+    "publishedAt": "2026-09-24T17:26:57.763Z",
     "changelog": [
-      "coisax"
+      "porra nwnhuma"
     ]
   }
 }

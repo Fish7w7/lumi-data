@@ -2,7 +2,12 @@
   "schemaVersion": 1,
   "packId": "fon-te",
   "presentation": {
-    "description": "Survival sem sair da linha Totalmente Rs",
-    "createdAt": "2026-09-24T15:15:06.097Z"
+    "cover": {
+      "url": "https://raw.githubusercontent.com/Fish7w7/lumi-data/main/covers/fon-te/542c475a36e8d91ab5f81a8cc8523649083ac128593bb890ab4a0ae9776cc969.jpg",
+      "sha256": "542c475a36e8d91ab5f81a8cc8523649083ac128593bb890ab4a0ae9776cc969",
+      "size": 202053,
+      "mimeType": "image/jpeg"
+    },
+    "createdAt": "2026-09-24T17:26:57.763Z"
   }
 }
